@@ -1,0 +1,35 @@
+# Entorno de Visual Studio para proyectos Python
+.vs/
+*.vscode/
+
+# Archivos de entorno de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Entornos virtuales
+env/
+venv/
+ENV/
+.venv/
+.env
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Archivos temporales del sistema
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Archivos PDF
+*.pdf
+
+# Archivo Python
+*.python-version
+
+# CIFAR10
+*data/
